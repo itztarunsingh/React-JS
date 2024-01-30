@@ -4,8 +4,10 @@
 
 This a basic Nike shoe store front Page.
 
+>Technology used
+ - basic React Syntax and CSS positioning
 
-##Contact us
+## Contact Us
 
 This is a Basic Contact Us page using Forms.
 
