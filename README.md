@@ -1,14 +1,15 @@
 # Welcome to my ReactJS projects
 
-# Nike
+## Nike
 
 This a basic Nike shoe store front Page.
 
 
-#Contact us
+##Contact us
 
 This is a Basic Contact Us page using Forms.
-'''Technology used'''
+
+>Technology used
 
  - Forms
 
@@ -16,6 +17,6 @@ This is a Basic Contact Us page using Forms.
 
 This a Basic Dice Game.  You need to Select any number. if selected number is equal to dice number you will get same point as dice.
 
-'''Technology Used'''
+>Technology Used
 - React Hooks
 - Conditions
