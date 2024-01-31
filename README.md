@@ -22,3 +22,12 @@ This a Basic Dice Game.  You need to Select any number. if selected number is eq
 >Technology Used
 - React Hooks
 - Conditions
+- Components and props
+
+## Foodzie 
+This app shows food items from API and displays all the food items. You can also filter those items. 
+
+>Technology Used
+- React Hooks
+- React API integration
+- Components and props
